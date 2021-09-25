@@ -1,0 +1,10 @@
+public class parsertest{
+static void yes(){
+static int a=10; 
+int b; 
+int c=a+b; 
+a.func(p,q); 
+return; 
+}
+}
+
